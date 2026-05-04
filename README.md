@@ -1,6 +1,6 @@
 ##  Larpik.pl – LARP Management Platform
 A comprehensive web application designed to streamline the organization and management of LARP (Live Action Role-Playing) events. This project was developed as a Bachelor’s Engineering Thesis.
- Live Demo: larpik.pl
+ Live Demo: [larpik.pl](https://larpik.pl)
 ##  Project Overview
 Larpik.pl is a dedicated tool for the LARP community, allowing organizers to manage events and participants in one place. The project focuses on high usability and clear interface design to handle complex event data.
 ##  My Roles & Responsibilities
